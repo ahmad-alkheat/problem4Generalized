@@ -1,0 +1,1 @@
+This is a generilization of the 5th problem on the Projecteuler website. The script takes a range (two numbers) and returns the first number that is divisable by all the numbers in this range. 
